@@ -28,10 +28,13 @@ class Solution {
 > 复杂度分析
 
 for循环遍历了一遍数组，HashMap查找的时间复杂度为1，整体用时应该是2n，时间复杂度O(n)
+
 额外使用了HashMap,一般扩容2n足够使用，空间复杂度O(n)
 
 > 总结
 
 Runtime: 1 ms, faster than 99.89% of Java online submissions for Two Sum.
+
 Memory Usage: 40.2 MB, less than 5.65% of Java online submissions for Two Sum.
+
 典型的空间换时间
