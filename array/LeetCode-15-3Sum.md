@@ -97,4 +97,4 @@ class Solution {
 
 > 总结
 
-Runtime: 15 ms Memory Usage: 43.7 MB,三数之和调用两数之和，同理，四数之和，也是如此
+Runtime: 15 ms Your runtime beats 99.57 % of java submissions, Memory Usage: 43.7 MB,三数之和调用两数之和，同理，四数之和，也是如此
