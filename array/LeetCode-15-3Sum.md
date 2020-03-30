@@ -91,7 +91,7 @@ class Solution {
 
 > 复杂度分析
 
-排序的时间复杂度是O(nlogn)，计算criticalLeft和criticalRight，用时应该是O(n)，findTwoSumResult寻找两数之和时间复杂度应该是O(n)，则最外层的for循环应该是(n/2)*n，则整体复杂度应该为nlogn+n^2，应该为O(n^2)
+排序的时间复杂度是O(nlogn)，计算criticalLeft和criticalRight，用时应该是O(n)，findTwoSumResult寻找两数之和时间复杂度应该是O(n)，则最外层的for循环应该是(n/2)*n，则整体复杂度应该为nlogn+n+n^2，应该为O(n^2)
 
 额外使用了左右位置的标识，空间复杂度O(1)
 
