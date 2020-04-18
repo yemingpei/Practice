@@ -35,3 +35,19 @@
 [LeetCode-86-Partition-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-86-Partition-List.md)
 
 [LeetCode-92-Reverse-Linked-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-92-Reverse-Linked-List.md)
+
+> 栈
+
+[LeetCode-150-Evaluate-Reverse-Polish-Notation](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-150-Evaluate-Reverse-Polish-Notation.md)
+
+[LeetCode-151-Reverse-Words-in-a-String](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-151-Reverse-Words-in-a-String.md)
+
+[LeetCode-155-Min-Stack](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-155-Min-Stack.md)
+
+[LeetCode-232-Implement-Queue-using-Stacks](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-232-Implement-Queue-using-Stacks.md)
+
+[LeetCode-32-Longest-Valid-Parentheses](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-32-Longest-Valid-Parentheses.md)
+
+[LeetCode-394-Decode-String](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-394-Decode-String.md)
+
+[LeetCode-856-Score-of-Parentheses](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-856-Score-of-Parentheses.md)
