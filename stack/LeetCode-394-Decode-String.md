@@ -14,42 +14,42 @@ String栈保存字符串，Integer栈保存数字，'['直接进站，遇到']'�
 class Solution {
     public String decodeString(String s) {
         Stack<String> stack = new Stack<String>();
-		Stack<Integer> numStack = new Stack<Integer>();
-		StringBuilder text = new StringBuilder();
-		for (int i = 0; i < s.length(); i++) {
-			char c = s.charAt(i);
-			if (c == ']') {
-				StringBuilder temp = new StringBuilder();
-				String a = stack.pop();
-				while (!a.equals("[")) {
-					text.insert(0, a);
-					a = stack.pop();
-				}
-				int size = numStack.pop();
-				for (int j = 0; j < size; j++) {
-					temp.append(text);
-				}
-				stack.push(temp.toString());
-				text = new StringBuilder();
-			} else if (c >= '0' && c <= '9') {
-				int num = 0;
-				while (s.charAt(i) >= '0' && s.charAt(i) <= '9') {
-					num = num * 10 + s.charAt(i) - '0';
-					i++;
-				}
-				numStack.push(num);
-				if (text.length() > 0)
-					stack.push(text.toString());
-				stack.push("[");
-				text = new StringBuilder();
-			} else {
-				text.append(c);
+	Stack<Integer> numStack = new Stack<Integer>();
+	StringBuilder text = new StringBuilder();
+	for (int i = 0; i < s.length(); i++) {
+		char c = s.charAt(i);
+		if (c == ']') {
+			StringBuilder temp = new StringBuilder();
+			String a = stack.pop();
+			while (!a.equals("[")) {
+				text.insert(0, a);
+				a = stack.pop();
 			}
+			int size = numStack.pop();
+			for (int j = 0; j < size; j++) {
+				temp.append(text);
+			}
+			stack.push(temp.toString());
+			text = new StringBuilder();
+		} else if (c >= '0' && c <= '9') {
+			int num = 0;
+			while (s.charAt(i) >= '0' && s.charAt(i) <= '9') {
+				num = num * 10 + s.charAt(i) - '0';
+				i++;
+			}
+			numStack.push(num);
+			if (text.length() > 0)
+				stack.push(text.toString());
+			stack.push("[");
+			text = new StringBuilder();
+		} else {
+			text.append(c);
 		}
-		while (!stack.isEmpty()) {
-			text.insert(0, stack.pop());
-		}
-		return text.toString();
+	}
+	while (!stack.isEmpty()) {
+		text.insert(0, stack.pop());
+	}
+	return text.toString();
     }
 }
 ```
