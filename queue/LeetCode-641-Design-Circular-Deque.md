@@ -11,57 +11,57 @@
 > 代码
 
 ```java
-private int[] number;
+        private int[] number;
 	private int start = 0;
 	private int end = 0;
 	private int size;
     public MyCircularDeque(int k) {
         size = k + 1;
-		number = new int[size];
+	number = new int[size];
     }
     
     public boolean insertFront(int value) {
        if (isFull())
-			return false;
-		start = (start - 1 + size) % size;
-		number[start] = value;
-		return true; 
+       		return false;
+	start = (start - 1 + size) % size;
+	number[start] = value;
+	return true; 
     }
     
     public boolean insertLast(int value) {
         if (isFull())
 			return false;
-		number[end] = value;
-		end = (end + 1) % size;
-		return true;
+	number[end] = value;
+	end = (end + 1) % size;
+	return true;
     }
     
     public boolean deleteFront() {
         if (isEmpty())
-			return false;
-		start = (start + 1) % size;
-		return true;
+		return false;
+	start = (start + 1) % size;
+	return true;
     }
     
     public boolean deleteLast() {
        if (isEmpty())
-			return false;
-		end = (end - 1 + size) % size;
-		return true; 
+		return false;
+	end = (end - 1 + size) % size;
+	return true; 
     }
     
     public int getFront() {
         if (isEmpty())
-			return -1;
-		else
-			return number[start];
+		return -1;
+	else
+		return number[start];
     }
     
     public int getRear() {
         if (isEmpty())
-			return -1;
-		else
-			return number[(end - 1 + size) % size];
+		return -1;
+	else
+		return number[(end - 1 + size) % size];
     }
     
     public boolean isEmpty() {
