@@ -83,3 +83,19 @@
 [LeetCode-56-Merge-Intervals](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-56-Merge-Intervals.md)
 
 [LeetCode-57-Insert-Interval](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-57-Insert-Interval.md)
+
+> 二分查找
+
+[LeetCode-162-Find-Peak-Element](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-162-Find-Peak-Element.md)
+
+[LeetCode-174-Dungeon-Game](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-174-Dungeon-Game.md)
+
+[LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
+
+[LeetCode-35-Search-Insert-Position](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-35-Search-Insert-Position.md)
+
+[LeetCode-74-Search-a-2D-Matrix](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-74-Search-a-2D-Matrix.md)
+
+[LeetCode-81-Search-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-81-Search-in-Rotated-Sorted-Array-II.md)
+
+[LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
