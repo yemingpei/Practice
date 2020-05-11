@@ -6,7 +6,7 @@
 
 > 思路
 
-记录每个字母的个数，核对字幕的个数是否相同
+记录每个字母的个数，核对字母的个数是否相同
 
 > 代码
 
@@ -36,4 +36,5 @@ class Solution {
 > 总结
 
 Runtime: 3 ms, faster than 75.57% of Java online submissions for Valid Anagram.
+
 Memory Usage: 41.5 MB, less than 5.16% of Java online submissions for Valid Anagram.
