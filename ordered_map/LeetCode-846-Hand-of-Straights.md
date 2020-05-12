@@ -13,8 +13,8 @@
 
 ```java
 class Solution {
-    public boolean isNStraightHand(int[] hand, int W) {
-        if (W == 1) return true;
+    	public boolean isNStraightHand(int[] hand, int W) {
+        	if (W == 1) return true;
 		if (hand.length % W != 0) return false;
 		int[] count = new int[W];
 		int H = hand.length / W;
@@ -45,7 +45,7 @@ class Solution {
 			if (sum % W != 0 || sum / W == 0) return false;
 		}
 		return true;
-    }
+    	}
 }
 ```
 
