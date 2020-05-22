@@ -38,6 +38,6 @@ for循环遍历了一遍数组，时间复杂度O(n)
 
 > 总结
 
-Runtime: 4 ms, faster than 99.85% of Java online submissions for Repeated DNA Sequences.
+Runtime: 10 ms, faster than 92.85% of Java online submissions for Repeated DNA Sequences.
 
 Memory Usage: 40 MB, less than 100.00% of Java online submissions for Repeated DNA Sequences.
