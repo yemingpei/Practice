@@ -115,3 +115,19 @@
 [LeetCode-846-Hand-of-Straights](https://github.com/yemingpei/Practice/blob/master/ordered_map/LeetCode-846-Hand-of-Straights.md)
 
 [LeetCode-855-Exam-Room](https://github.com/yemingpei/Practice/blob/master/ordered_map/LeetCode-855-Exam-Room.md)
+
+> 哈希表
+
+[LeetCode-136-Single-Number](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-136-Single-Number.md)
+
+[LeetCode-187-Repeated-DNA-Sequences](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-187-Repeated-DNA-Sequences.md)
+
+[LeetCode-202-Happy-Number](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-202-Happy-Number.md)
+
+[LeetCode-30-Substring-with-Concatenation-of-All-Words](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-30-Substring-with-Concatenation-of-All-Words.md)
+
+[LeetCode-36-Valid-Sudoku](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-36-Valid-Sudoku.md)
+
+[LeetCode-37-Sudoku-Solver](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-37-Sudoku-Solver.md)
+
+[LeetCode-49-Group-Anagrams](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-49-Group-Anagrams.md)
