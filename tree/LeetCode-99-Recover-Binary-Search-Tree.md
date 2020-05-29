@@ -16,14 +16,14 @@ class Solution {
   TreeNode second;
   boolean lock;
 
-	public void recoverTree(TreeNode root) {
+  public void recoverTree(TreeNode root) {
       compareNumber(root);
       int number = first.val;
       first.val = second.val;
       second.val = number;
-	}
+  }
 
-	public void compareNumber(TreeNode node) {
+  public void compareNumber(TreeNode node) {
       if (node == null) return;
       compareNumber(node.left);
       if (!lock && (first == null || node.val > first.val)) first = node;
@@ -33,7 +33,7 @@ class Solution {
         second = node;
       }
       compareNumber(node.right);
-	}
+   }
 }
 ```
 
