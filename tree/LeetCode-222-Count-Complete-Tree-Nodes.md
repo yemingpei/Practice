@@ -38,22 +38,22 @@ class Solution {
       }
       int last = calculationLast(0, depth, root);
       return (int) Math.pow(2, depth) - 1 + last;
-	}
+    }
 
-	public int calculationLast(int sum, int depth, TreeNode root) {
-      if (depth != 1) {
-        TreeNode node = root.right;
-        for (int i = depth - 1; i > 0; i--)
-          node = node.left;
-        if (node == null) return calculationLast(sum, --depth, root.left);
-        else {
-          int dep = depth - 1;
-          return calculationLast(sum + (int) Math.pow(2, dep), dep, root.right);
-        }
-      }
-      if (root.right == null) return sum + 1;
-      else return sum + 2;
+    public int calculationLast(int sum, int depth, TreeNode root) {
+	if (depth != 1) {
+	  TreeNode node = root.right;
+	  for (int i = depth - 1; i > 0; i--)
+	    node = node.left;
+	  if (node == null) return calculationLast(sum, --depth, root.left);
+	  else {
+	    int dep = depth - 1;
+	    return calculationLast(sum + (int) Math.pow(2, dep), dep, root.right);
+	  }
 	}
+	if (root.right == null) return sum + 1;
+	else return sum + 2;
+     }
 }
 ```
 
