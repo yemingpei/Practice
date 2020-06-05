@@ -14,24 +14,24 @@
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
          List<Integer> result = new ArrayList<Integer>();
-	       if (root == null) return result;
-		     Deque<TreeNode> stack = new LinkedList<TreeNode>();
-		     TreeNode node = root, before = null, top = null;
-		     while (node != null || !stack.isEmpty()) {
-			       if (node != null) {
-				     stack.push(node);
-				     node = node.left;
-			       } else {
-				          top = stack.peek();
-				          if (top.right != null && !top.right.equals(before)) node = top.right;
-                  else {
-					            stack.pop();
-					            result.add(top.val);
-					            before = top;
-				          }
-			      }
-		    }
-		    return result;
+         if (root == null) return result;
+	 Deque<TreeNode> stack = new LinkedList<TreeNode>();
+	 TreeNode node = root, before = null, top = null;
+	 while (node != null || !stack.isEmpty()) {
+	     if (node != null) {
+	          stack.push(node);
+		  node = node.left;
+	     } else {
+		  top = stack.peek();
+		  if (top.right != null && !top.right.equals(before)) node = top.right;
+	          else {
+		       stack.pop();
+		       result.add(top.val);
+		       before = top;
+		  }
+	      }
+         }
+	 return result;
     }
 }
 ```
