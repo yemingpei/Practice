@@ -12,7 +12,7 @@
 
 ```java
 public class Codec {
-   public String serialize(TreeNode root) {
+	public String serialize(TreeNode root) {
 		StringBuilder sb = new StringBuilder();
 		serializeHelper(root, sb);
 		return sb.toString();
