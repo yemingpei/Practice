@@ -13,28 +13,27 @@
 ```java
 class Solution {
     public boolean isMatch(String s, String p) {
-		if (s.equals(p))
-			return true;
-		int i = 0, j = 0;
-		int starti = -1, startj = -1;
-		while (i < s.length()) {
-			if (j < p.length() && (p.charAt(j) == '?' || p.charAt(j) == s.charAt(i))) {
-				i++;
-				j++;
-			} else if (j < p.length() && p.charAt(j) == '*') {
-				starti = i;
-				startj = j;
-				j++;
-			} else if (startj != -1) {
-				j = startj + 1;
-				i = starti + 1;
-				starti++;
-			} else return false;
-		}
-		while (j < p.length() && p.charAt(j) == '*')
+	if (s.equals(p)) return true;
+	int i = 0, j = 0;
+	int starti = -1, startj = -1;
+	while (i < s.length()) {
+		if (j < p.length() && (p.charAt(j) == '?' || p.charAt(j) == s.charAt(i))) {
+			i++;
 			j++;
-		return j == p.length();
+		} else if (j < p.length() && p.charAt(j) == '*') {
+			starti = i;
+			startj = j;
+			j++;
+		} else if (startj != -1) {
+			j = startj + 1;
+			i = starti + 1;
+			starti++;
+		} else return false;
 	}
+	while (j < p.length() && p.charAt(j) == '*')
+		j++;
+	return j == p.length();
+    }
 }
 ```
 
