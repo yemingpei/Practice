@@ -10,6 +10,8 @@
 
 [LeetCode-42-Trapping-Rain-Water](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-42-Trapping-Rain-Water.md)
 
+[LeetCode-48-Rotate-Image](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-48-Rotate-Image.md)
+
 [LeetCode-54-Spiral-Matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-54-Spiral-Matrix.md)
 
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
@@ -193,3 +195,19 @@
 [LeetCode-51-N-Queens](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-51-N-Queens.md)
 
 [LeetCode-52-N-Queens-II](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-52-N-Queens-II.md)
+
+> 位运算
+
+[LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
+
+[LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
+
+[LeetCode-137-Single-Number-II](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-137-Single-Number-II.md)
+
+[LeetCode-169-Majority-Element](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-169-Majority-Element.md)
+
+[LeetCode-190-Reverse-Bits](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-190-Reverse-Bits.md)
+
+[LeetCode-201-Bitwise-AND-of-Numbers-Range](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-201-Bitwise-AND-of-Numbers-Range.md)
+
+[LeetCode-78-Subsets](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-78-Subsets.md)
