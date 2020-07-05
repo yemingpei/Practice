@@ -10,6 +10,8 @@
 
 [LeetCode-42-Trapping-Rain-Water](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-42-Trapping-Rain-Water.md)
 
+[LeetCode-45-Jump-Game-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-45-Jump-Game-II.md)
+
 [LeetCode-48-Rotate-Image](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-48-Rotate-Image.md)
 
 [LeetCode-54-Spiral-Matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-54-Spiral-Matrix.md)
