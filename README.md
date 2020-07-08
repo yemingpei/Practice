@@ -94,6 +94,8 @@
 
 [LeetCode-162-Find-Peak-Element](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-162-Find-Peak-Element.md)
 
+[LeetCode-50-Pow(x, n)](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-50-Pow-x-n.md)
+
 [LeetCode-174-Dungeon-Game](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-174-Dungeon-Game.md)
 
 [LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
