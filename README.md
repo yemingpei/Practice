@@ -217,3 +217,15 @@
 [LeetCode-201-Bitwise-AND-of-Numbers-Range](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-201-Bitwise-AND-of-Numbers-Range.md)
 
 [LeetCode-78-Subsets](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-78-Subsets.md)
+
+> 字符串
+
+[LeetCode-12-Integer-to-Roman](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-12-Integer-to-Roman.md)
+
+[LeetCode-13-Roman-to-Integer](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-13-Roman-to-Integer.md)
+
+[LeetCode-38-Count-and-Say](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-38-Count-and-Say.md)
+
+[LeetCode-43-Multiply-Strings](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-43-Multiply-Strings.md)
+
+[LeetCode-58-Length-of-Last-Word](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-58-Length-of-Last-Word.md)
