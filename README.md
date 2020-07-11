@@ -235,3 +235,5 @@
 [LeetCode-58-Length-of-Last-Word](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-58-Length-of-Last-Word.md)
 
 [LeetCode-65-Valid-Number](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-65-Valid-Number.md)
+
+[LeetCode-68-Text-Justification](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-68-Text-Justification.md)
