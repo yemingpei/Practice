@@ -233,3 +233,5 @@
 [LeetCode-43-Multiply-Strings](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-43-Multiply-Strings.md)
 
 [LeetCode-58-Length-of-Last-Word](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-58-Length-of-Last-Word.md)
+
+[LeetCode-65-Valid-Number](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-65-Valid-Number.md)
