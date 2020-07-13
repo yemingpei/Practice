@@ -236,4 +236,6 @@
 
 [LeetCode-65-Valid-Number](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-65-Valid-Number.md)
 
+[LeetCode-67-Add-Binary](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-67-Add-Binary.md)
+
 [LeetCode-68-Text-Justification](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-68-Text-Justification.md)
