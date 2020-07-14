@@ -106,6 +106,8 @@
 
 [LeetCode-35-Search-Insert-Position](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-35-Search-Insert-Position.md)
 
+[LeetCode-69-Sqrt(x)](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-69-Sqrt-x.md)
+
 [LeetCode-74-Search-a-2D-Matrix](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-74-Search-a-2D-Matrix.md)
 
 [LeetCode-81-Search-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-81-Search-in-Rotated-Sorted-Array-II.md)
