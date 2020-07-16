@@ -241,3 +241,9 @@
 [LeetCode-67-Add-Binary](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-67-Add-Binary.md)
 
 [LeetCode-68-Text-Justification](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-68-Text-Justification.md)
+
+[LeetCode-71-Simplify-Path](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-71-Simplify-Path.md)
+
+> 数学
+
+[LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
