@@ -190,6 +190,8 @@
 
 [LeetCode-70-Climbing-Stairs](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-70-Climbing-Stairs.md)
 
+[LeetCode-72-Edit-Distance](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-72-Edit-Distance.md)
+
 [LeetCode-91-Decode-Ways](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-91-Decode-Ways.md)
 
 > 回溯法
@@ -207,6 +209,8 @@
 [LeetCode-51-N-Queens](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-51-N-Queens.md)
 
 [LeetCode-52-N-Queens-II](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-52-N-Queens-II.md)
+
+[LeetCode-77-Combinations](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-77-Combinations.md)
 
 > 位运算
 
