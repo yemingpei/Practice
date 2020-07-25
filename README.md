@@ -30,6 +30,8 @@
 
 [LeetCode-80](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-80.md)
 
+[LeetCode-84-Largest-Rectangle-in-Histogram](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-84-Largest-Rectangle-in-Histogram.md)
+
 [LeetCode-88-Merge-Sorted-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-88-Merge-Sorted-Array.md)
 
 > 链表
