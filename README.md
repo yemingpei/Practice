@@ -36,6 +36,8 @@
 
 [LeetCode-88-Merge-Sorted-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-88-Merge-Sorted-Array.md)
 
+[LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)
+
 > 链表
 
 [LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
