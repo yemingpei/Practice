@@ -36,8 +36,6 @@
 
 [LeetCode-88-Merge-Sorted-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-88-Merge-Sorted-Array.md)
 
-[LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)
-
 > 链表
 
 [LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
@@ -161,6 +159,10 @@
 [LeetCode-101-Symmetric-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-101-Symmetric-Tree.md)
 
 [LeetCode-104-Maximum-Depth-of-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-104-Maximum-Depth-of-Binary-Tree.md)
+
+[LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)
+
+[LeetCode-106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.md)
 
 [LeetCode-108-Convert-Sorted-Array-to-Binary-Search-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-108-Convert-Sorted-Array-to-Binary-Search-Tree.md)
 
