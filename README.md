@@ -270,6 +270,8 @@
 
 [LeetCode-76-Minimum-Window-Substring](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-76-Minimum-Window-Substring.md)
 
+[LeetCode-87-Scramble-String](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-87-Scramble-String.md)
+
 [LeetCode-93-Restore-IP-Addresses](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-93-Restore-IP-Addresses.md)
 
 > 数学
