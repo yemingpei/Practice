@@ -285,3 +285,5 @@
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
 
 [LeetCode-89-Gray-Code](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-89-Gray-Code.md)
+
+[LeetCode-118-Pascal's-Triangle](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-118-Pascal-Triangle.md)
