@@ -170,6 +170,8 @@
 
 [LeetCode-111-Minimum-Depth-of-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-111-Minimum-Depth-of-Binary-Tree.md)
 
+[LeetCode-112-Path-Sum](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-112-Path-Sum.md)
+
 [LeetCode-116-Populating-Next-Right-Pointers-in-Each-Node](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-116-Populating-Next-Right-Pointers-in-Each-Node.md)
 
 [LeetCode-117-Populating-Next-Right-Pointers-in-Each-Node-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-117-Populating-Next-Right-Pointers-in-Each-Node-II.md)
