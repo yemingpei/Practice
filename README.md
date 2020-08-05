@@ -240,6 +240,8 @@
 
 [LeetCode-90-Subsets-II](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-90-Subsets-II.md)
 
+[LeetCode-120-Triangle](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-120-Triangle.md)
+
 > 位运算
 
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
