@@ -42,6 +42,8 @@
 
 [LeetCode-130-Surrounded-Regions](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-130-Surrounded-Regions.md)
 
+[LeetCode-135-Candy](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-135-Candy.md)
+
 > 链表
 
 [LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
