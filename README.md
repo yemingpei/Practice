@@ -164,6 +164,8 @@
 
 [LeetCode-140-Word-Break-II](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-140-Word-Break-II.md)
 
+[LeetCode-149-Max-Points-on-a-Line](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-149-Max-Points-on-a-Line.md)
+
 [LeetCode-187-Repeated-DNA-Sequences](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-187-Repeated-DNA-Sequences.md)
 
 [LeetCode-202-Happy-Number](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-202-Happy-Number.md)
