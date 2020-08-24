@@ -48,10 +48,6 @@
 
 > 链表
 
-[LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
-
-[LeetCode-142](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-142.md)
-
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
 
 [LeetCode-82](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-82.md)
@@ -61,6 +57,12 @@
 [LeetCode-86-Partition-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-86-Partition-List.md)
 
 [LeetCode-92-Reverse-Linked-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-92-Reverse-Linked-List.md)
+
+[LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
+
+[LeetCode-142](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-142.md)
+
+[LeetCode-160-Intersection-of-Two-Linked-Lists](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-160-Intersection-of-Two-Linked-Lists.md)
 
 > 栈
 
