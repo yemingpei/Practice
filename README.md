@@ -46,6 +46,8 @@
 
 [LeetCode-135-Candy](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-135-Candy.md)
 
+[LeetCode-167-Two-Sum-II-Input-array-is-sorted](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-167-Two-Sum-II-Input-array-is-sorted.md)
+
 > 链表
 
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
