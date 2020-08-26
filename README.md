@@ -168,6 +168,8 @@
 
 [LeetCode-136-Single-Number](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-136-Single-Number.md)
 
+[LeetCode-139-Word-Break](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-139-Word-Break.md)
+
 [LeetCode-140-Word-Break-II](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-140-Word-Break-II.md)
 
 [LeetCode-149-Max-Points-on-a-Line](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-149-Max-Points-on-a-Line.md)
