@@ -60,6 +60,8 @@
 
 [LeetCode-92-Reverse-Linked-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-92-Reverse-Linked-List.md)
 
+[LeetCode-138-Copy-List-with-Random-Pointer](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-138-Copy-List-with-Random-Pointer.md)
+
 [LeetCode-141-Linked-List-Cycle](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-141-Linked-List-Cycle.md)
 
 [LeetCode-142](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-142.md)
