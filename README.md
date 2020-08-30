@@ -102,7 +102,13 @@
 
 > 排序
 
+[LeetCode-56-Merge-Intervals](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-56-Merge-Intervals.md)
+
+[LeetCode-57-Insert-Interval](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-57-Insert-Interval.md)
+
 [LeetCode-148-Sort-List](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-148-Sort-List.md)
+
+[LeetCode-164-Maximum-Gap](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-164-Maximum-Gap.md)
 
 [LeetCode-179-Largest-Number](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-179-Largest-Number.md)
 
@@ -111,10 +117,6 @@
 [LeetCode-347-Top-K-Frequent-Elements](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-347-Top-K-Frequent-Elements.md)
 
 [LeetCode-349-Intersection-of-Two-Arrays](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-349-Intersection-of-Two-Arrays.md)
-
-[LeetCode-56-Merge-Intervals](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-56-Merge-Intervals.md)
-
-[LeetCode-57-Insert-Interval](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-57-Insert-Interval.md)
 
 > 二分查找
 
