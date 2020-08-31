@@ -339,3 +339,5 @@
 [LeetCode-119-Pascal's-Triangle-II](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-119-Pascal-Triangle-II.md)
 
 [LeetCode-134-Gas-Station](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-134-Gas-Station.md)
+
+[LeetCode-168-Excel-Sheet-Column-Title](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-168-Excel-Sheet-Column-Title.md)
