@@ -222,6 +222,8 @@
 
 [LeetCode-129-Sum-Root-to-Leaf-Numbers](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-129-Sum-Root-to-Leaf-Numbers.md)
 
+[LeetCode-144-Binary-Tree-Preorder-Traversal](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-144-Binary-Tree-Preorder-Traversal.md)
+
 [LeetCode-145-Binary-Tree-Postorder-Traversal](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-145-Binary-Tree-Postorder-Traversal.md)
 
 [LeetCode-222-Count-Complete-Tree-Nodes](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-222-Count-Complete-Tree-Nodes.md)
