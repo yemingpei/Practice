@@ -176,6 +176,8 @@
 
 [LeetCode-140-Word-Break-II](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-140-Word-Break-II.md)
 
+[LeetCode-146-LRU-Cache](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-146-LRU-Cache.md)
+
 [LeetCode-149-Max-Points-on-a-Line](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-149-Max-Points-on-a-Line.md)
 
 [LeetCode-187-Repeated-DNA-Sequences](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-187-Repeated-DNA-Sequences.md)
