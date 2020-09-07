@@ -350,4 +350,6 @@
 
 [LeetCode-171-Excel-Sheet-Column-Number](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-171-Excel-Sheet-Column-Number.md)
 
+[LeetCode-172-Factorial-Trailing-Zeroes](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-172-Factorial-Trailing-Zeroes.md)
+
 [LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV.md)
