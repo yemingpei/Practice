@@ -140,6 +140,8 @@
 
 [LeetCode-81-Search-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-81-Search-in-Rotated-Sorted-Array-II.md)
 
+[LeetCode-153-Find-Minimum-in-Rotated-Sorted-Array](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-153-Find-Minimum-in-Rotated-Sorted-Array.md)
+
 [LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II.md)
 
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
