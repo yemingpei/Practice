@@ -344,6 +344,8 @@
 
 [LeetCode-165-Compare-Version-Numbers](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-165-Compare-Version-Numbers.md)
 
+[LeetCode-214-Shortest-Palindrome](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-214-Shortest-Palindrome.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
