@@ -72,6 +72,8 @@
 
 [LeetCode-160-Intersection-of-Two-Linked-Lists](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-160-Intersection-of-Two-Linked-Lists.md)
 
+[LeetCode-203-Remove-Linked-List-Elements](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-203-Remove-Linked-List-Elements.md)
+
 > 栈
 
 [LeetCode-150-Evaluate-Reverse-Polish-Notation](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-150-Evaluate-Reverse-Polish-Notation.md)
@@ -369,3 +371,5 @@
 [LeetCode-172-Factorial-Trailing-Zeroes](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-172-Factorial-Trailing-Zeroes.md)
 
 [LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV.md)
+
+[LeetCode-204-Count-Primes](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-204-Count-Primes.md)
