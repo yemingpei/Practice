@@ -200,6 +200,8 @@
 
 [LeetCode-202-Happy-Number](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-202-Happy-Number.md)
 
+[LeetCode-205-Isomorphic-Strings](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-205-Isomorphic-Strings.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
