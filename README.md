@@ -389,3 +389,5 @@
 [LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-188-Best-Time-to-Buy-and-Sell-Stock-IV.md)
 
 [LeetCode-204-Count-Primes](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-204-Count-Primes.md)
+
+[LeetCode-223-Rectangle-Area](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-223-Rectangle-Area.md)
