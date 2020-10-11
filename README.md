@@ -391,3 +391,5 @@
 [LeetCode-204-Count-Primes](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-204-Count-Primes.md)
 
 [LeetCode-223-Rectangle-Area](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-223-Rectangle-Area.md)
+
+[LeetCode-233-Number-of-Digit-One](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-233-Number-of-Digit-One.md)
