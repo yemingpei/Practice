@@ -206,6 +206,8 @@
 
 [LeetCode-205-Isomorphic-Strings](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-205-Isomorphic-Strings.md)
 
+[LeetCode-217-Contains-Duplicate](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-217-Contains-Duplicate.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
