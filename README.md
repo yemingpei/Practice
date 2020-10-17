@@ -264,6 +264,8 @@
 
 [LeetCode-222-Count-Complete-Tree-Nodes](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-222-Count-Complete-Tree-Nodes.md)
 
+[LeetCode-230-Kth-Smallest-Element-in-a-BST](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-230-Kth-Smallest-Element-in-a-BST.md)
+
 [LeetCode-297-Serialize-and-Deserialize-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-297-Serialize-and-Deserialize-Binary-Tree.md)
 
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
