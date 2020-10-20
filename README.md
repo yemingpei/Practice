@@ -104,6 +104,8 @@
 
 > 队列
 
+[LeetCode-225-Implement-Stack-using-Queues](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-225-Implement-Stack-using-Queues.md)
+
 [LeetCode-239-Sliding-Window-Maximum](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-239-Sliding-Window-Maximum.md)
 
 [LeetCode-363-Max-Sum-of-Rectangle-No-Larger-Than-K](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-363.md)
