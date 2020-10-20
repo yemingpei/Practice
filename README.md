@@ -328,9 +328,7 @@
 
 > 位运算
 
-[LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
-
-[LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
+[LeetCode-78-Subsets](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-78-Subsets.md)
 
 [LeetCode-137-Single-Number-II](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-137-Single-Number-II.md)
 
@@ -340,7 +338,11 @@
 
 [LeetCode-201-Bitwise-AND-of-Numbers-Range](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-201-Bitwise-AND-of-Numbers-Range.md)
 
-[LeetCode-78-Subsets](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-78-Subsets.md)
+[LeetCode-231-Power-of-Two](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-231-Power-of-Two.md)
+
+[LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
+
+[LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
 
 > 字符串
 
