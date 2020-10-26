@@ -390,6 +390,8 @@
 
 [LeetCode-273-Integer-to-English-Words](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-273-Integer-to-English-Words.md)
 
+[LeetCode-282-Expression-Add-Operators](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-282-Expression-Add-Operators.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
