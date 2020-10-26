@@ -427,3 +427,5 @@
 [LeetCode-223-Rectangle-Area](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-223-Rectangle-Area.md)
 
 [LeetCode-233-Number-of-Digit-One](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-233-Number-of-Digit-One.md)
+
+[LeetCode-264-Ugly-Number-II](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-264-Ugly-Number-II.md)
