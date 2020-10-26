@@ -272,6 +272,8 @@
 
 [LeetCode-230-Kth-Smallest-Element-in-a-BST](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-230-Kth-Smallest-Element-in-a-BST.md)
 
+[LeetCode-235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.md)
+
 [LeetCode-236-Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-236-Lowest-Common-Ancestor-of-a-Binary-Tree.md)
 
 [LeetCode-297-Serialize-and-Deserialize-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-297-Serialize-and-Deserialize-Binary-Tree.md)
