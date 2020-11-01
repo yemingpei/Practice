@@ -114,6 +114,8 @@
 
 [LeetCode-239-Sliding-Window-Maximum](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-239-Sliding-Window-Maximum.md)
 
+[LeetCode-295-Find-Median-from-Data-Stream](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-295-Find-Median-from-Data-Stream.md)
+
 [LeetCode-363-Max-Sum-of-Rectangle-No-Larger-Than-K](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-363.md)
 
 [LeetCode-621-Task-Scheduler](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-621-Task-Scheduler.md)
