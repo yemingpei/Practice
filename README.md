@@ -434,6 +434,8 @@
 
 [LeetCode-233-Number-of-Digit-One](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-233-Number-of-Digit-One.md)
 
+[LeetCode-263-Ugly-Number](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-263-Ugly-Number.md)
+
 [LeetCode-264-Ugly-Number-II](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-264-Ugly-Number-II.md)
 
 [LeetCode-274-H-Index](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-274-H-Index.md)
