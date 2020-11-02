@@ -348,6 +348,8 @@
 
 [LeetCode-190-Reverse-Bits](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-190-Reverse-Bits.md)
 
+[LeetCode-191-Number-of-1-Bits](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-191-Number-of-1-Bits.md)
+
 [LeetCode-201-Bitwise-AND-of-Numbers-Range](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-201-Bitwise-AND-of-Numbers-Range.md)
 
 [LeetCode-231-Power-of-Two](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-231-Power-of-Two.md)
