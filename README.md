@@ -172,6 +172,8 @@
 
 [LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II.md)
 
+[LeetCode-275-H-Index-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-275-H-Index-II.md)
+
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
 > ordered_map
