@@ -443,3 +443,5 @@
 [LeetCode-264-Ugly-Number-II](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-264-Ugly-Number-II.md)
 
 [LeetCode-274-H-Index](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-274-H-Index.md)
+
+[LeetCode-279-Perfect-Squares](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-279-Perfect-Squares.md)
