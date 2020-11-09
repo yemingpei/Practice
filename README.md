@@ -364,6 +364,8 @@
 
 [LeetCode-260-Single-Number-III](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-260-Single-Number-III.md)
 
+[LeetCode-268-Missing-Number](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-268-Missing-Number.md)
+
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
 
 [LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
