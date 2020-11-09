@@ -284,6 +284,8 @@
 
 [LeetCode-236-Lowest-Common-Ancestor-of-a-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-236-Lowest-Common-Ancestor-of-a-Binary-Tree.md)
 
+[LeetCode-257-Binary-Tree-Paths](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-257-Binary-Tree-Paths.md)
+
 [LeetCode-297-Serialize-and-Deserialize-Binary-Tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-297-Serialize-and-Deserialize-Binary-Tree.md)
 
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
