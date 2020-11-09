@@ -449,3 +449,5 @@
 [LeetCode-274-H-Index](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-274-H-Index.md)
 
 [LeetCode-279-Perfect-Squares](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-279-Perfect-Squares.md)
+
+[LeetCode-258-Add-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-258-Add-Digits.md)
