@@ -62,6 +62,8 @@
 
 [LeetCode-240-Search-a-2D-Matrix-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-240-Search-a-2D-Matrix-II.md)
 
+[LeetCode-287-Find-the-Duplicate-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-287-Find-the-Duplicate-Number.md)
+
 > 链表
 
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
