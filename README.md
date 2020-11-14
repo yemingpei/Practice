@@ -64,6 +64,8 @@
 
 [LeetCode-287-Find-the-Duplicate-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-287-Find-the-Duplicate-Number.md)
 
+[LeetCode-289-Game-of-Life](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-289-Game-of-Life.md)
+
 > 链表
 
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
