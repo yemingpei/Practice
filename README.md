@@ -180,6 +180,8 @@
 
 [LeetCode-275-H-Index-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-275-H-Index-II.md)
 
+[LeetCode-278-First-Bad-Version](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-278-First-Bad-Version.md)
+
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
 > ordered_map
