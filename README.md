@@ -62,6 +62,8 @@
 
 [LeetCode-240-Search-a-2D-Matrix-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-240-Search-a-2D-Matrix-II.md)
 
+[LeetCode-283-Move-Zeroes](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-283-Move-Zeroes.md)
+
 [LeetCode-287-Find-the-Duplicate-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-287-Find-the-Duplicate-Number.md)
 
 [LeetCode-289-Game-of-Life](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-289-Game-of-Life.md)
