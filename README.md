@@ -426,6 +426,10 @@
 
 [LeetCode-282-Expression-Add-Operators](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-282-Expression-Add-Operators.md)
 
+[LeetCode-290-Word-Pattern](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-290-Word-Pattern.md)
+
+[LeetCode-299-Bulls-and-Cows](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-299-Bulls-and-Cows.md)
+
 [LeetCode-301-Remove-Invalid-Parentheses](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-301-Remove-Invalid-Parentheses.md)
 
 > 数学
