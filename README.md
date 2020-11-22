@@ -68,6 +68,8 @@
 
 [LeetCode-289-Game-of-Life](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-289-Game-of-Life.md)
 
+[LeetCode-315-Count-of-Smaller-Numbers-After-Self](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-315-Count-of-Smaller-Numbers-After-Self.md)
+
 > 链表
 
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
