@@ -464,6 +464,8 @@
 
 [LeetCode-233-Number-of-Digit-One](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-233-Number-of-Digit-One.md)
 
+[LeetCode-258-Add-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-258-Add-Digits.md)
+
 [LeetCode-263-Ugly-Number](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-263-Ugly-Number.md)
 
 [LeetCode-264-Ugly-Number-II](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-264-Ugly-Number-II.md)
@@ -472,6 +474,6 @@
 
 [LeetCode-279-Perfect-Squares](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-279-Perfect-Squares.md)
 
-[LeetCode-258-Add-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-258-Add-Digits.md)
+[LeetCode-292-Nim-Game](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-292-Nim-Game.md)
 
 [LeetCode-304-Range-Sum-Query-2D-Immutable](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-304-Range-Sum-Query-2D-Immutable.md)
