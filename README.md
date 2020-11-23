@@ -68,6 +68,8 @@
 
 [LeetCode-289-Game-of-Life](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-289-Game-of-Life.md)
 
+[LeetCode-303-Range-Sum-Query-Immutable](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-303-Range-Sum-Query-Immutable.md)
+
 [LeetCode-315-Count-of-Smaller-Numbers-After-Self](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-315-Count-of-Smaller-Numbers-After-Self.md)
 
 > 链表
