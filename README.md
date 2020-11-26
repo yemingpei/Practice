@@ -70,6 +70,8 @@
 
 [LeetCode-303-Range-Sum-Query-Immutable](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-303-Range-Sum-Query-Immutable.md)
 
+[LeetCode-307-Range-Sum-Query-Mutable](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-307-Range-Sum-Query-Mutable.md)
+
 [LeetCode-315-Count-of-Smaller-Numbers-After-Self](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-315-Count-of-Smaller-Numbers-After-Self.md)
 
 > 链表
