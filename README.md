@@ -440,6 +440,8 @@
 
 [LeetCode-301-Remove-Invalid-Parentheses](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-301-Remove-Invalid-Parentheses.md)
 
+[LeetCode-306-Additive-Number](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-306-Additive-Number.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
