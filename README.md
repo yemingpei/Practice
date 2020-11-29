@@ -76,6 +76,8 @@
 
 [LeetCode-315-Count-of-Smaller-Numbers-After-Self](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-315-Count-of-Smaller-Numbers-After-Self.md)
 
+[LeetCode-321-Create-Maximum-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-321-Create-Maximum-Number.md)
+
 > 链表
 
 [LeetCode-61-Rotate-List](https://github.com/yemingpei/Practice/blob/master/linked_list/LeetCode-61-Rotate-List.md)
