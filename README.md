@@ -489,3 +489,5 @@
 [LeetCode-292-Nim-Game](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-292-Nim-Game.md)
 
 [LeetCode-304-Range-Sum-Query-2D-Immutable](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-304-Range-Sum-Query-2D-Immutable.md)
+
+[LeetCode-326-Power-of-Three](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-326-Power-of-Three.md)
