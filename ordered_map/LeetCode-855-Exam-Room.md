@@ -13,7 +13,7 @@
 ```java
 class ExamRoom {
     int size;
-	  ArrayList<Integer> list = new ArrayList();
+    ArrayList<Integer> list = new ArrayList();
     
     public ExamRoom(int N) {
         size = N;
