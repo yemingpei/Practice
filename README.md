@@ -342,6 +342,8 @@
 
 [LeetCode-312-Burst-Balloons](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-312-Burst-Balloons.md)
 
+[LeetCode-313-Super-Ugly-Number](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-313-Super-Ugly-Number.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
