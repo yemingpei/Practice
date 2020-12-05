@@ -494,6 +494,8 @@
 
 [LeetCode-316-Remove-Duplicate-Letters](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-316-Remove-Duplicate-Letters.md)
 
+[LeetCode-319-Bulb-Switcher](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-319-Bulb-Switcher.md)
+
 [LeetCode-326-Power-of-Three](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-326-Power-of-Three.md)
 
 [LeetCode-342-Power-of-Four](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-342-Power-of-Four.md)
