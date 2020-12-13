@@ -80,6 +80,8 @@
 
 [LeetCode-322-Coin-Change](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-322-Coin-Change.md)
 
+[LeetCode-329-Longest-Increasing-Path-in-a-Matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-329-Longest-Increasing-Path-in-a-Matrix.md)
+
 [LeetCode-344-Reverse-String](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-344-Reverse-String.md)
 
 > 链表
