@@ -144,6 +144,8 @@
 
 [LeetCode-310-Minimum-Height-Trees](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-310-Minimum-Height-Trees.md)
 
+[LeetCode-332-Reconstruct-Itinerary](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-332-Reconstruct-Itinerary.md)
+
 [LeetCode-363-Max-Sum-of-Rectangle-No-Larger-Than-K](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-363.md)
 
 [LeetCode-621-Task-Scheduler](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-621-Task-Scheduler.md)
