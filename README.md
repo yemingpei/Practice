@@ -22,8 +22,6 @@
 
 [LeetCode-66-Plus-One](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-66-Plus-One.md)
 
-[LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
-
 [LeetCode-73-Set-Matrix-Zeroes](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-73-Set-Matrix-Zeroes.md)
 
 [LeetCode-75-Sort-Colors](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-75-Sort-Colors.md)
@@ -83,6 +81,10 @@
 [LeetCode-329-Longest-Increasing-Path-in-a-Matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-329-Longest-Increasing-Path-in-a-Matrix.md)
 
 [LeetCode-344-Reverse-String](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-344-Reverse-String.md)
+
+[LeetCode-350-Intersection-of-Two-Arrays-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-350-Intersection-of-Two-Arrays-II.md)
+
+[LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
 
