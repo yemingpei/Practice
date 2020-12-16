@@ -80,6 +80,8 @@
 
 [LeetCode-329-Longest-Increasing-Path-in-a-Matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-329-Longest-Increasing-Path-in-a-Matrix.md)
 
+[LeetCode-334-Increasing-Triplet-Subsequence](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-334-Increasing-Triplet-Subsequence.md)
+
 [LeetCode-344-Reverse-String](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-344-Reverse-String.md)
 
 [LeetCode-350-Intersection-of-Two-Arrays-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-350-Intersection-of-Two-Arrays-II.md)
