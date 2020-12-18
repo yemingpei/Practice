@@ -520,4 +520,6 @@
 
 [LeetCode-326-Power-of-Three](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-326-Power-of-Three.md)
 
+[LeetCode-330-Patching-Array](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-330-Patching-Array.md)
+
 [LeetCode-342-Power-of-Four](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-342-Power-of-Four.md)
