@@ -190,15 +190,11 @@
 
 > 二分查找
 
-[LeetCode-162-Find-Peak-Element](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-162-Find-Peak-Element.md)
-
-[LeetCode-50-Pow(x, n)](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-50-Pow-x-n.md)
-
-[LeetCode-174-Dungeon-Game](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-174-Dungeon-Game.md)
-
 [LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
 
 [LeetCode-35-Search-Insert-Position](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-35-Search-Insert-Position.md)
+
+[LeetCode-50-Pow(x, n)](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-50-Pow-x-n.md)
 
 [LeetCode-69-Sqrt(x)](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-69-Sqrt-x.md)
 
@@ -210,11 +206,17 @@
 
 [LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-154-Find-Minimum-in-Rotated-Sorted-Array-II.md)
 
+[LeetCode-162-Find-Peak-Element](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-162-Find-Peak-Element.md)
+
+[LeetCode-174-Dungeon-Game](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-174-Dungeon-Game.md)
+
 [LeetCode-275-H-Index-II](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-275-H-Index-II.md)
 
 [LeetCode-278-First-Bad-Version](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-278-First-Bad-Version.md)
 
 [LeetCode-300-Longest-Increasing-Subsequence](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-300-Longest-Increasing-Subsequence.md)
+
+[LeetCode-367-Valid-Perfect-Square](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-367-Valid-Perfect-Square.md)
 
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
