@@ -218,6 +218,8 @@
 
 [LeetCode-367-Valid-Perfect-Square](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-367-Valid-Perfect-Square.md)
 
+[LeetCode-374-Guess-Number-Higher-or-Lower](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-374-Guess-Number-Higher-or-Lower.md)
+
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
 > ordered_map
