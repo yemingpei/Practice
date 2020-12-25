@@ -276,6 +276,8 @@
 
 [LeetCode-219-Contains-Duplicate-II](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-219-Contains-Duplicate-II.md)
 
+[LeetCode-355-Design-Twitter](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-355-Design-Twitter.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
