@@ -543,3 +543,5 @@
 [LeetCode-342-Power-of-Four](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-342-Power-of-Four.md)
 
 [LeetCode-343-Integer-Break](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-343-Integer-Break.md)
+
+[LeetCode-357-Count-Numbers-with-Unique-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-357-Count-Numbers-with-Unique-Digits.md)
