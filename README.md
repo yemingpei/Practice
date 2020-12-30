@@ -545,3 +545,5 @@
 [LeetCode-343-Integer-Break](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-343-Integer-Break.md)
 
 [LeetCode-357-Count-Numbers-with-Unique-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-357-Count-Numbers-with-Unique-Digits.md)
+
+[LeetCode-365-Water-and-Jug-Problem](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-365-Water-and-Jug-Problem.md)
