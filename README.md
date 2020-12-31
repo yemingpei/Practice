@@ -282,6 +282,8 @@
 
 [LeetCode-355-Design-Twitter](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-355-Design-Twitter.md)
 
+[LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
