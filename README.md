@@ -549,3 +549,5 @@
 [LeetCode-357-Count-Numbers-with-Unique-Digits](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-357-Count-Numbers-with-Unique-Digits.md)
 
 [LeetCode-365-Water-and-Jug-Problem](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-365-Water-and-Jug-Problem.md)
+
+[LeetCode-372-Super-Pow](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-372-Super-Pow.md)
