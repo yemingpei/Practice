@@ -494,6 +494,8 @@
 
 [LeetCode-345-Reverse-Vowels-of-a-String](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-345-Reverse-Vowels-of-a-String.md)
 
+[LeetCode-383-Ransom-Note](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-383-Ransom-Note.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
