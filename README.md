@@ -496,6 +496,8 @@
 
 [LeetCode-383-Ransom-Note](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-383-Ransom-Note.md)
 
+[LeetCode-392-Is-Subsequence](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-392-Is-Subsequence.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
