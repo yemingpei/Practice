@@ -92,6 +92,8 @@
 
 [LeetCode-354-Russian-Doll-Envelopes](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-354-Russian-Doll-Envelopes.md)
 
+[LeetCode-376-Wiggle-Subsequence](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-376-Wiggle-Subsequence.md)
+
 [LeetCode-387-First-Unique-Character-in-a-String](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-387-First-Unique-Character-in-a-String.md)
 
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
