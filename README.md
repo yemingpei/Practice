@@ -386,6 +386,8 @@
 
 [LeetCode-375-Guess-Number-Higher-or-Lower-II](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-375-Guess-Number-Higher-or-Lower-II.md)
 
+[LeetCode-377-Combination-Sum-IV](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-377-Combination-Sum-IV.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
