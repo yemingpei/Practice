@@ -96,6 +96,8 @@
 
 [LeetCode-387-First-Unique-Character-in-a-String](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-387-First-Unique-Character-in-a-String.md)
 
+[LeetCode-391-Perfect-Rectangle](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-391-Perfect-Rectangle.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
