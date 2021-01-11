@@ -448,6 +448,8 @@
 
 [LeetCode-389-Find-the-Difference](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-389-Find-the-Difference.md)
 
+[LeetCode-405-Convert-a-Number-to-Hexadecimal](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-405-Convert-a-Number-to-Hexadecimal.md)
+
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
 
 [LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
