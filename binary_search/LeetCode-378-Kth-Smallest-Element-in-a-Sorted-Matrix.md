@@ -13,31 +13,33 @@
 ```java
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
-        if (matrix == null || matrix.length == 0 || matrix[0] == null || matrix.length == 0) return -1;
-        int m = matrix.length;
-        int lo = matrix[0][0], hi = matrix[m - 1][m - 1];
-        while (lo <= hi) {
-            int mid = (hi - lo) / 2 + lo;
-            int count = getLessEqual(matrix, mid);
-            if (count < k) lo = mid + 1;
-            else hi = mid - 1;
+        int n = matrix.length;
+        int left = matrix[0][0];
+        int right = matrix[n - 1][n - 1];
+        while (left < right) {
+            int mid = left + ((right - left) >> 1);
+            if (check(matrix, mid, k, n)) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
         }
-        return lo;
+        return left;
     }
 
-    private int getLessEqual(int[][] matrix, int num) {
-        int m = matrix.length;
-        int i = m - 1;
-        int j = 0;    
-        int count = 0;
-        while (i >= 0 ) {
-            while ( j < m && matrix[i][j] <= num) {
-                j ++;
+    public boolean check(int[][] matrix, int mid, int k, int n) {
+        int i = n - 1;
+        int j = 0;
+        int num = 0;
+        while (i >= 0 && j < n) {
+            if (matrix[i][j] <= mid) {
+                num += i + 1;
+                j++;
+            } else {
+                i--;
             }
-            count += j;
-            i--;
         }
-        return count;
+        return num >= k;
     }
 }
 ```
