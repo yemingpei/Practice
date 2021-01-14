@@ -288,6 +288,8 @@
 
 [LeetCode-355-Design-Twitter](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-355-Design-Twitter.md)
 
+[LeetCode-380-Insert-Delete-GetRandom-O](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-380-Insert-Delete-GetRandom-O.md)
+
 [LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed.md)
 
 > 树
