@@ -520,6 +520,8 @@
 
 [LeetCode-409-Longest-Palindrome](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-409-Longest-Palindrome.md)
 
+[LeetCode-412-Fizz-Buzz](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-412-Fizz-Buzz.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
