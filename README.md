@@ -589,3 +589,5 @@
 [LeetCode-372-Super-Pow](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-372-Super-Pow.md)
 
 [LeetCode-384-Shuffle-an-Array](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-384-Shuffle-an-Array.md)
+
+[LeetCode-390-Elimination-Game](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-390-Elimination-Game.md)
