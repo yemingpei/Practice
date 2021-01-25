@@ -100,6 +100,8 @@
 
 [LeetCode-407-Trapping-Rain-Water-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-407-Trapping-Rain-Water-II.md)
 
+[LeetCode-414-Third-Maximum-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-414-Third-Maximum-Number.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
