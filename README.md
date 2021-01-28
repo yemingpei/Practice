@@ -530,6 +530,8 @@
 
 [LeetCode-392-Is-Subsequence](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-392-Is-Subsequence.md)
 
+[LeetCode-395-Longest-Substring-with-At-Least-K-Repeating-Characters](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-395-Longest-Substring-with-At-Least-K-Repeating-Characters.md)
+
 [LeetCode-409-Longest-Palindrome](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-409-Longest-Palindrome.md)
 
 [LeetCode-412-Fizz-Buzz](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-412-Fizz-Buzz.md)
