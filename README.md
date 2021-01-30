@@ -462,6 +462,8 @@
 
 [LeetCode-393-UTF-8-Validations](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-393-UTF-8-Validations.md)
 
+[LeetCode-397-Integer-Replacement](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-397-Integer-Replacement.md)
+
 [LeetCode-405-Convert-a-Number-to-Hexadecimal](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-405-Convert-a-Number-to-Hexadecimal.md)
 
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
