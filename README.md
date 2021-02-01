@@ -542,6 +542,8 @@
 
 [LeetCode-415-Add-Strings](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-415-Add-Strings.md)
 
+[LeetCode-434-Number-of-Segments-in-a-String](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-434-Number-of-Segments-in-a-String.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
