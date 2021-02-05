@@ -98,6 +98,8 @@
 
 [LeetCode-391-Perfect-Rectangle](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-391-Perfect-Rectangle.md)
 
+[LeetCode-398-Random-Pick-Index](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-398-Random-Pick-Index.md)
+
 [LeetCode-407-Trapping-Rain-Water-II](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-407-Trapping-Rain-Water-II.md)
 
 [LeetCode-414-Third-Maximum-Number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-414-Third-Maximum-Number.md)
@@ -301,6 +303,8 @@
 [LeetCode-380-Insert-Delete-GetRandom-O](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-380-Insert-Delete-GetRandom-O.md)
 
 [LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-381-Insert-Delete-GetRandom-O(1)-Duplicates-allowed.md)
+
+[LeetCode-399-Evaluate-Division](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-399-Evaluate-Division.md)
 
 > 树
 
@@ -609,3 +613,5 @@
 [LeetCode-390-Elimination-Game](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-390-Elimination-Game.md)
 
 [LeetCode-396-Rotate-Function](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-396-Rotate-Function.md)
+
+[LeetCode-400-Nth-Digit](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-400-Nth-Digit.md)
