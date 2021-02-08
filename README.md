@@ -546,6 +546,8 @@
 
 [LeetCode-415-Add-Strings](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-415-Add-Strings.md)
 
+[LeetCode-402-Remove-K-Digits](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-402-Remove-K-Digits.md)
+
 [LeetCode-420-Strong-Password-Checker](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-420-Strong-Password-Checker.md)
 
 [LeetCode-434-Number-of-Segments-in-a-String](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-434-Number-of-Segments-in-a-String.md)
