@@ -180,6 +180,8 @@
 
 [LeetCode-373-Find-K-Pairs-with-Smallest-Sums](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-373-Find-K-Pairs-with-Smallest-Sums.md)
 
+[LeetCode-406-Queue-Reconstruction-by-Height](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-406-Queue-Reconstruction-by-Height.md)
+
 [LeetCode-621-Task-Scheduler](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-621-Task-Scheduler.md)
 
 [LeetCode-622-Design-Circular-Queue](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-622-Design-Circular-Queue.md)
