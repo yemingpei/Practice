@@ -314,6 +314,8 @@
 
 [LeetCode-399-Evaluate-Division](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-399-Evaluate-Division.md)
 
+[LeetCode-432-All-O-one-Data-Structure](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-432-All-O-one-Data-Structure.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
