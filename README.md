@@ -562,6 +562,8 @@
 
 [LeetCode-434-Number-of-Segments-in-a-String](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-434-Number-of-Segments-in-a-String.md)
 
+[LeetCode-459-Repeated-Substring-Pattern](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-459-Repeated-Substring-Pattern.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
