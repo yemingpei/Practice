@@ -484,6 +484,8 @@
 
 [LeetCode-405-Convert-a-Number-to-Hexadecimal](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-405-Convert-a-Number-to-Hexadecimal.md)
 
+[LeetCode-421-Maximum-XOR-of-Two-Numbers-in-an-Array](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-421-Maximum-XOR-of-Two-Numbers-in-an-Array.md)
+
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
 
 [LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
