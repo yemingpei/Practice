@@ -639,3 +639,5 @@
 [LeetCode-453-Minimum-Moves-to-Equal-Array-Elements](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-453-Minimum-Moves-to-Equal-Array-Elements.md)
 
 [LeetCode-423-Reconstruct-Original-Digits-from-English](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-423-Reconstruct-Original-Digits-from-English.md)
+
+[LeetCode-424-Longest-Repeating-Character-Replacement](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-424-Longest-Repeating-Character-Replacement.md)
