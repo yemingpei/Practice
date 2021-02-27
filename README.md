@@ -322,6 +322,8 @@
 
 [LeetCode-432-All-O-one-Data-Structure](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-432-All-O-one-Data-Structure.md)
 
+[LeetCode-433-Minimum-Genetic-Mutation](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-433-Minimum-Genetic-Mutation.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
