@@ -116,6 +116,8 @@
 
 [LeetCode-442-Find-All-Duplicates-in-an-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-442-Find-All-Duplicates-in-an-Array.md)
 
+[LeetCode-443-String-Compression](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-443-String-Compression.md)
+
 [LeetCode-448-Find-All-Numbers-Disappeared-in-an-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-448-Find-All-Numbers-Disappeared-in-an-Array.md)
 
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
