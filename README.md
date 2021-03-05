@@ -114,6 +114,8 @@
 
 [LeetCode-436-Find-Right-Interval](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-436-Find-Right-Interval.md)
 
+[LeetCode-442-Find-All-Duplicates-in-an-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-442-Find-All-Duplicates-in-an-Array.md)
+
 [LeetCode-448-Find-All-Numbers-Disappeared-in-an-Array](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-448-Find-All-Numbers-Disappeared-in-an-Array.md)
 
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
