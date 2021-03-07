@@ -665,3 +665,5 @@
 [LeetCode-440-K-th-Smallest-in-Lexicographical-Order](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-440-K-th-Smallest-in-Lexicographical-Order.md)
 
 [LeetCode-453-Minimum-Moves-to-Equal-Array-Elements](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-453-Minimum-Moves-to-Equal-Array-Elements.md)
+
+[LeetCode-458-Poor-Pigs](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-458-Poor-Pigs.md)
