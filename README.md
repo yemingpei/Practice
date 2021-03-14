@@ -334,7 +334,7 @@
 
 [LeetCode-447-Number-of-Boomerangs](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-447-Number-of-Boomerangs.md)
 
-[LeetCode-460-LFU-Cache](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-460-LFU-Cache.md
+[LeetCode-460-LFU-Cache](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-460-LFU-Cache.md)
 
 > 树
 
