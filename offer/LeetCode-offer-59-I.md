@@ -2,7 +2,7 @@
 
 > 题目链接
 
-[LeetCode-offer-598-I](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+[LeetCode-offer-59-I](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
 
 > 思路
 
