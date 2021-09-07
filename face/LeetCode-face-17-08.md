@@ -1,8 +1,8 @@
-### LeetCode-face-17-8
+### LeetCode-face-17-08
 
 > 题目链接
 
-[LeetCode-face-17-8](https://leetcode-cn.com/problems/circus-tower-lcci/)
+[LeetCode-face-17-08](https://leetcode-cn.com/problems/circus-tower-lcci/)
 
 > 思路
 
