@@ -1,8 +1,8 @@
-### LeetCode-face-17-9
+### LeetCode-face-17-09
 
 > 题目链接
 
-[LeetCode-face-17-9](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/)
+[LeetCode-face-17-09](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/)
 
 > 思路
 
