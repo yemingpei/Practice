@@ -695,3 +695,5 @@
 [LeetCode-462-minimum-moves-to-equal-array-elements-ii](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-462-minimum-moves-to-equal-array-elements-ii.md)
 
 [LeetCode-464-can-i-win](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-464-can-i-win.md)
+
+[LeetCode-470-implement-rand10-using-rand7](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-470-implement-rand10-using-rand7.md)
