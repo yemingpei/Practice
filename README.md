@@ -614,6 +614,8 @@
 
 [LeetCode-459-Repeated-Substring-Pattern](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-459-Repeated-Substring-Pattern.md)
 
+[LeetCode-472-concatenated-words](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-472-concatenated-words.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
