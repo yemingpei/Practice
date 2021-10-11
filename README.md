@@ -705,3 +705,5 @@
 [LeetCode-464-can-i-win](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-464-can-i-win.md)
 
 [LeetCode-470-implement-rand10-using-rand7](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-470-implement-rand10-using-rand7.md)
+
+[LeetCode-479-largest-palindrome-product](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-479-largest-palindrome-product.md)
