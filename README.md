@@ -498,6 +498,8 @@
 
 [LeetCode-386-Lexicographical-Numbers](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-386-Lexicographical-Numbers.md)
 
+[LeetCode-488-zuma-game](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-488-zuma-game.md)
+
 > 位运算
 
 [LeetCode-78-Subsets](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-78-Subsets.md)
