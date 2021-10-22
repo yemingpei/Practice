@@ -468,6 +468,8 @@
 
 [LeetCode-486-predict-the-winner](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-486-predict-the-winner.md)
 
+[LeetCode-494-target-sum](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-494-target-sum.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
