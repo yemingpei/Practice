@@ -186,6 +186,8 @@
 
 [LeetCode-403-Frog-Jump](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-403-Frog-Jump.md)
 
+[LeetCode-496-next-greater-element-i](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-496-next-greater-element-i.md)
+
 [LeetCode-856-Score-of-Parentheses](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-856-Score-of-Parentheses.md)
 
 > 队列
