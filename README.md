@@ -128,6 +128,8 @@
 
 [LeetCode-495-teemo-attacking](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-495-teemo-attacking.md)
 
+[LeetCode-498-diagonal-traverse](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-498-diagonal-traverse.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
