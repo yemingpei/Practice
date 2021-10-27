@@ -638,6 +638,8 @@
 
 [LeetCode-472-concatenated-words](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-472-concatenated-words.md)
 
+[LeetCode-500-keyboard-row](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-500-keyboard-row.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
