@@ -432,6 +432,8 @@
 
 [LeetCode-450-Delete-Node-in-a-BST](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-450-Delete-Node-in-a-BST.md)
 
+[LeetCode-501-find-mode-in-binary-search-tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-501-find-mode-in-binary-search-tree.md)
+
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
 
 > 动态规划
