@@ -190,6 +190,8 @@
 
 [LeetCode-496-next-greater-element-i](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-496-next-greater-element-i.md)
 
+[LeetCode-503-next-greater-element-ii](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-503-next-greater-element-ii.md)
+
 [LeetCode-856-Score-of-Parentheses](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-856-Score-of-Parentheses.md)
 
 > 队列
