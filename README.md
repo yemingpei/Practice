@@ -254,6 +254,8 @@
 
 [LeetCode-475-heaters](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-475-heaters.md)
 
+[LeetCode-506-relative-ranks](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-506-relative-ranks.md)
+
 > 二分查找
 
 [LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
