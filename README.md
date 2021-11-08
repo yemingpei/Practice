@@ -488,6 +488,8 @@
 
 [LeetCode-494-target-sum](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-494-target-sum.md)
 
+[LeetCode-516-longest-palindromic-subsequence](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-516-longest-palindromic-subsequence.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
