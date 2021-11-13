@@ -660,6 +660,8 @@
 
 [LeetCode-520-detect-capital](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-520-detect-capital.md)
 
+[LeetCode-521-longest-uncommon-subsequence-i](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-521-longest-uncommon-subsequence-i.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
