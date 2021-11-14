@@ -662,6 +662,8 @@
 
 [LeetCode-521-longest-uncommon-subsequence-i](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-521-longest-uncommon-subsequence-i.md)
 
+[LeetCode-522-longest-uncommon-subsequence-ii](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-522-longest-uncommon-subsequence-ii.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
