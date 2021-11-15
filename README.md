@@ -751,3 +751,5 @@
 [LeetCode-479-largest-palindrome-product](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-479-largest-palindrome-product.md)
 
 [LeetCode-507-perfect-number](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-507-perfect-number.md)
+
+[LeetCode-523-continuous-subarray-sum](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-523-continuous-subarray-sum.md)
