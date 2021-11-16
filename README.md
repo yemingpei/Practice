@@ -498,6 +498,8 @@
 
 [LeetCode-518-coin-change-2](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-518-coin-change-2.md)
 
+[LeetCode-524-longest-word-in-dictionary-through-deleting](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-524-longest-word-in-dictionary-through-deleting.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
