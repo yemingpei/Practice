@@ -300,6 +300,8 @@
 
 [LeetCode-497-random-point-in-non-overlapping-rectangles.md](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-497-random-point-in-non-overlapping-rectangles.md)
 
+[LeetCode-528-random-pick-with-weight](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-528-random-pick-with-weight.md)
+
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
 > ordered_map
