@@ -134,6 +134,8 @@
 
 [LeetCode-517-super-washing-machines](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-517-super-washing-machines.md)
 
+[LeetCode-529-minesweeper](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-529-minesweeper.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
