@@ -380,6 +380,8 @@
 
 [LeetCode-519-random-flip-matrix](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-519-random-flip-matrix.md)
 
+[LeetCode-535-encode-and-decode-tinyurl](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-535-encode-and-decode-tinyurl.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
