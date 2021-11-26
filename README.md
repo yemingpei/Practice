@@ -460,6 +460,8 @@
 
 [LeetCode-530-minimum-absolute-difference-in-bst](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-530-minimum-absolute-difference-in-bst.md)
 
+[LeetCode-538-convert-bst-to-greater-tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-538-convert-bst-to-greater-tree.md)
+
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
 
 > 动态规划
