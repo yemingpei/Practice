@@ -306,6 +306,8 @@
 
 [LeetCode-528-random-pick-with-weight](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-528-random-pick-with-weight.md)
 
+[LeetCode-540-single-element-in-a-sorted-array](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-540-single-element-in-a-sorted-array.md)
+
 [LeetCode-875-Koko-Eating-Bananas](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-875-Koko-Eating-Bananas.md)
 
 > ordered_map
