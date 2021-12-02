@@ -694,6 +694,8 @@
 
 [LeetCode-541-reverse-string-ii](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-541-reverse-string-ii.md)
 
+[LeetCode-551-student-attendance-record-i](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-551-student-attendance-record-i.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
