@@ -386,6 +386,8 @@
 
 [LeetCode-535-encode-and-decode-tinyurl](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-535-encode-and-decode-tinyurl.md)
 
+[LeetCode-554-brick-wall](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-554-brick-wall.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
