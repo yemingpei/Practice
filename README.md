@@ -700,6 +700,8 @@
 
 [LeetCode-551-student-attendance-record-i](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-551-student-attendance-record-i.md)
 
+[LeetCode-556-next-greater-element-iii](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-556-next-greater-element-iii.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
