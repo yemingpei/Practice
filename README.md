@@ -470,6 +470,8 @@
 
 [LeetCode-543-diameter-of-binary-tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-543-diameter-of-binary-tree.md)
 
+[LeetCode-558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-558-logical-or-of-two-binary-grids-represented-as-quad-trees.md)
+
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
 
 > 动态规划
