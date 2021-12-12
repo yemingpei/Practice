@@ -388,6 +388,8 @@
 
 [LeetCode-554-brick-wall](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-554-brick-wall.md)
 
+[LeetCode-560-subarray-sum-equals-k](https://github.com/yemingpei/Practice/blob/master/hash_table/LeetCode-560-subarray-sum-equals-k.md)
+
 > 树
 
 [LeetCode-95-Unique-Binary-Search-Trees-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-95-Unique-Binary-Search-Trees-II.md)
