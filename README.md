@@ -270,6 +270,8 @@
 
 [LeetCode-532-k-diff-pairs-in-an-array](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-532-k-diff-pairs-in-an-array.md)
 
+[LeetCode-561-array-partition-i](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-561-array-partition-i.md)
+
 > 二分查找
 
 [LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
