@@ -140,6 +140,10 @@
 
 [LeetCode-547-number-of-provinces](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-547-number-of-provinces.md)
 
+[LeetCode-565-array-nesting](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-565-array-nesting.md)
+
+[LeetCode-566-reshape-the-matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-566-reshape-the-matrix.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
