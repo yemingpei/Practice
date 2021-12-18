@@ -718,6 +718,8 @@
 
 [LeetCode-557-reverse-words-in-a-string-iii](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-557-reverse-words-in-a-string-iii.md)
 
+[LeetCode-567-permutation-in-string](https://github.com/yemingpei/Practice/blob/master/string/LeetCode-567-permutation-in-string.md)
+
 > 数学
 
 [LeetCode-60-Permutation-Sequence](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-60-Permutation-Sequence.md)
