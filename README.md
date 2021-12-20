@@ -144,6 +144,8 @@
 
 [LeetCode-566-reshape-the-matrix](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-566-reshape-the-matrix.md)
 
+[LeetCode-575-distribute-candies](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-575-distribute-candies.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
