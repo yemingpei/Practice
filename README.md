@@ -148,6 +148,8 @@
 
 [LeetCode-581-shortest-unsorted-continuous-subarray](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-581-shortest-unsorted-continuous-subarray.md)
 
+[LeetCode-587-erect-the-fence](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-587-erect-the-fence.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
