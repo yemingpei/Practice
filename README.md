@@ -829,3 +829,5 @@
 [LeetCode-552-student-attendance-record-ii](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-552-student-attendance-record-ii.md)
 
 [LeetCode-553-optimal-division](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-553-optimal-division.md)
+
+[LeetCode-593-valid-square](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-593-valid-square.md)
