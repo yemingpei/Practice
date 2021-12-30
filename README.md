@@ -282,6 +282,8 @@
 
 [LeetCode-561-array-partition-i](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-561-array-partition-i.md)
 
+[LeetCode-594-longest-harmonious-subsequence](https://github.com/yemingpei/Practice/blob/master/sort/LeetCode-594-longest-harmonious-subsequence.md)
+
 > 二分查找
 
 [LeetCode-29-Divide-Two-Integers](https://github.com/yemingpei/Practice/blob/master/binary_search/LeetCode-29-Divide-Two-Integers.md)
@@ -831,3 +833,5 @@
 [LeetCode-553-optimal-division](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-553-optimal-division.md)
 
 [LeetCode-593-valid-square](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-593-valid-square.md)
+
+[LeetCode-598-range-addition-ii](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-598-range-addition-ii.md)
