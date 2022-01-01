@@ -632,6 +632,8 @@
 
 [LeetCode-476-Number-Complement](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-476-Number-Complement.md)
 
+[LeetCode-600-non-negative-integers-without-consecutive-ones](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-600-non-negative-integers-without-consecutive-ones.md)
+
 [LeetCode-1125-Smallest-Sufficient-Team](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1125-Smallest-Sufficient-Team.md)
 
 [LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle](https://github.com/yemingpei/Practice/blob/master/bit_manipulation/LeetCode-1178-Number-of-Valid-Words-for-Each-Puzzle.md)
