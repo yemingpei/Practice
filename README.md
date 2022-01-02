@@ -150,6 +150,8 @@
 
 [LeetCode-587-erect-the-fence](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-587-erect-the-fence.md)
 
+[LeetCode-605-can-place-flowers](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-605-can-place-flowers.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
