@@ -502,6 +502,8 @@
 
 [LeetCode-590-n-ary-tree-postorder-traversal](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-590-n-ary-tree-postorder-traversal.md)
 
+[LeetCode-606-construct-string-from-binary-tree](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-606-construct-string-from-binary-tree.md)
+
 [LeetCode-685-Redundant-Connection-II](https://github.com/yemingpei/Practice/blob/master/tree/LeetCode-685-Redundant-Connection-II.md)
 
 > 动态规划
