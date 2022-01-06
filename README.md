@@ -152,6 +152,8 @@
 
 [LeetCode-605-can-place-flowers](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-605-can-place-flowers.md)
 
+[LeetCode-611-valid-triangle-number](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-611-valid-triangle-number.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
