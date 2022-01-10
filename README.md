@@ -248,6 +248,8 @@
 
 [LeetCode-622-Design-Circular-Queue](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-622-Design-Circular-Queue.md)
 
+[LeetCode-630-course-schedule-iii](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-630-course-schedule-iii.md)
+
 [LeetCode-641-Design-Circular-Deque](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-641-Design-Circular-Deque.md)
 
 [LeetCode-862-Shortest-Subarray-with-Sum-at-Least-K](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-862.md)
