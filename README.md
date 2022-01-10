@@ -572,6 +572,8 @@
 
 [LeetCode-546-remove-boxes](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-546-remove-boxes.md)
 
+[LeetCode-629-k-inverse-pairs-array](https://github.com/yemingpei/Practice/blob/master/dynamic_program/LeetCode-629-k-inverse-pairs-array.md)
+
 > 回溯法
 
 [LeetCode-39-Combination-Sum](https://github.com/yemingpei/Practice/blob/master/backtracking/LeetCode-39-Combination-Sum.md)
