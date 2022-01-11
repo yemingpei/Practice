@@ -156,6 +156,8 @@
 
 [LeetCode-628-maximum-product-of-three-numbers](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-628-maximum-product-of-three-numbers.md)
 
+[LeetCode-632-smallest-range-covering-elements-from-k-lists](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-632-smallest-range-covering-elements-from-k-lists.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
