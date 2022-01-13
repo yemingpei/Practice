@@ -861,3 +861,5 @@
 [LeetCode-593-valid-square](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-593-valid-square.md)
 
 [LeetCode-598-range-addition-ii](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-598-range-addition-ii.md)
+
+[LeetCode-633-sum-of-square-numbers](https://github.com/yemingpei/Practice/blob/master/math/LeetCode-633-sum-of-square-numbers.md)
