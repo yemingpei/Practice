@@ -220,6 +220,8 @@
 
 [LeetCode-503-next-greater-element-ii](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-503-next-greater-element-ii.md)
 
+[LeetCode-636-exclusive-time-of-functions](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-636-exclusive-time-of-functions.md)
+
 [LeetCode-856-Score-of-Parentheses](https://github.com/yemingpei/Practice/blob/master/stack/LeetCode-856-Score-of-Parentheses.md)
 
 > 队列
