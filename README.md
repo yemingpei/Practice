@@ -254,6 +254,8 @@
 
 [LeetCode-630-course-schedule-iii](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-630-course-schedule-iii.md)
 
+[LeetCode-637-average-of-levels-in-binary-tree](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-637-average-of-levels-in-binary-tree.md)
+
 [LeetCode-641-Design-Circular-Deque](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-641-Design-Circular-Deque.md)
 
 [LeetCode-862-Shortest-Subarray-with-Sum-at-Least-K](https://github.com/yemingpei/Practice/blob/master/queue/LeetCode-862.md)
