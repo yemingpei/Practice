@@ -158,6 +158,8 @@
 
 [LeetCode-632-smallest-range-covering-elements-from-k-lists](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-632-smallest-range-covering-elements-from-k-lists.md)
 
+[LeetCode-638-shopping-offers](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-638-shopping-offers.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
