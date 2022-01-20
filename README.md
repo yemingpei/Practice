@@ -160,6 +160,8 @@
 
 [LeetCode-638-shopping-offers](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-638-shopping-offers.md)
 
+[LeetCode-643-maximum-average-subarray-i](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-643-maximum-average-subarray-i.md)
+
 [LeetCode-670-Maximum-Swap](https://github.com/yemingpei/Practice/blob/master/array/LeetCode-670-Maximum-Swap.md)
 
 > 链表
